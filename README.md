@@ -1,2 +1,2 @@
 # Group Research Work
-These Researches are done with other Group Members.
+These Research are done with other Group Members.
